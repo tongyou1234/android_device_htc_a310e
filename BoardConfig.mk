@@ -167,5 +167,5 @@ SMALLER_FONT_FOOTPRINT := true
 TARGET_PROVIDES_POWERHAL := true
 
 # Prebuilt Kernel
-# TARGET_PREBUILT_KERNEL := /home/gnexus/thinkingbridge/prebuiltkernel/kernel
+# TARGET_PREBUILT_KERNEL := 
 # TARGET_USE_O3 := true
